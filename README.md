@@ -4,9 +4,9 @@
 
 #### Data Scientist, ML/AI Developer
 
+<br>
 
-
-
+<br>
 
 #### 활용언어 및 프레임워크
 
@@ -16,17 +16,17 @@
 * Keras
 * Django
 
+<br>
 
-
-
+<br>
 
 #### Git
 
 * [https://github.com/Gwang-chae](https://github.com/Gwang-chae)
 
+<br>
 
-
-
+<br>
 
 ## 활동
 
@@ -37,9 +37,9 @@
 * 멀티캠퍼스 융복합 프로젝트형 AI 서비스 개발과정
   * 2020.07.13 ~ 2020.12.24
 
+<br>
 
-
-
+<br>
 
 ## 수상내역
 
@@ -48,9 +48,9 @@
 * `쓰리디`
   * 멀티캠퍼스 AI 활용 프로젝트 - 최우수상
 
+<br>
 
-
-
+<br>
 
 ## 프로젝트
 
@@ -60,9 +60,9 @@
   * 분석내용 : 라이프스타일샵 시장분석, `JAJU` 브랜드 분석, 소비자 분석, 새로운 브랜드 컨셉 도출, 브랜드 관리 전략 제언
   * 사용언어 및 프로그램 : **Python, R, illustrator, photoshop**
 
+---
 
-
-
+<br>
 
 * [CalCal](https://github.com/HanHyunDo/CalCal) - 멀티캠퍼스 인터페이스 개발 프로젝트 (팀)
 
@@ -80,9 +80,9 @@
 
   * http://calcal.pythonanywhere.com/
 
+---
 
-
-
+<br>
 
 * [쓰리디](https://github.com/Gwang-chae/Dacon/tree/master/Landmark) - 멀티캠퍼스 AI 활용 프로젝트 & DACON 랜드마크 분류 AI 경진대회(팀)
   * 진행기간 : 2020.10.28 ~ 2020.11.16
@@ -91,9 +91,9 @@
   * LeaderBoard : Private Score 0.99302 ( `16 / 82등` )
   * 프로젝트 수행도구 : **Python, Tensorflow, Keras, AWS EC2** 
 
+---
 
-
-
+<br>
 
 * [1342](https://github.com/js1342/between_closet_AI-webserver) - 멀티캠퍼스 IoT/Cloud/AI/Big Data 융복합 프로젝트 (팀)
 
@@ -113,9 +113,9 @@
 
   * 프로젝트 수행도구 : **Python/Django, Tensorflow/Keras, Vue.js, Kotlin, AWS EC2, RDS, DynamoDB, Notion, Figma** 
 
+---
 
-
-
+<br>
 
 * [광현아](https://github.com/Gwang-chae/Dacon/tree/master/LG_System_Quality_Change_Prediction) - DACON 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 (팀)
   * 진행기간 : 2021.01.06 ~ 2021.02.02
