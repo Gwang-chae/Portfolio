@@ -26,6 +26,12 @@
 
 <br>
 
+#### Notion
+
+* [https://www.notion.so/Gwangchae-Seo-de6df67fbc0141b0814496c24853070f](https://www.notion.so/Gwangchae-Seo-de6df67fbc0141b0814496c24853070f)
+
+<br>
+
 <br>
 
 ## 활동
