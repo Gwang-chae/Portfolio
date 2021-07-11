@@ -24,7 +24,7 @@
 
 #### Notion
 
-* [https://www.notion.so/Gwangchae-Seo-de6df67fbc0141b0814496c24853070f](https://www.notion.so/Gwangchae-Seo-de6df67fbc0141b0814496c24853070f)
+* [https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419](https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)
 
 <br>
 
